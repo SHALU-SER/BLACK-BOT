@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20220108-WA0143.jpg"  width="500" height="500"/>
+  <img border-radius: 15px src="https://i.ibb.co/TcDLWQg/IMG-20220106-WA0000.jpg"  width="500" height="500"/>
   <p align="center">
 <a href="#"><img title="BLACK-BOT" src="https://img.shields.io/badge/BLACK-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
