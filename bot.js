@@ -156,7 +156,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ WHITE DEVIL working!')
+            chalk.green.bold('✅ BLACK BOT working!')
        );
         
          if (config.LANG == 'EN') {
@@ -187,7 +187,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        var tb = 'https://gitlab.com/terror-boy/version.sh/-/raw/main/announcement.sh'
+        var tb = 'https://gitlab.com/SHALU-SER/version.sh/-/raw/main/announcement.sh'
         
         while (getGMTh == 1 && getGMTm == 1) {
             const {data} = await axios(tb)
@@ -198,7 +198,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'ID') announce = en
             
             let video = ''
-            let image = '' //'https://i.imgur.com/kB30S41.jpg'
+            let image = '' //'https://www.linkpicture.com/q/IMG-20220108-WA0143.jpg
             
             if (video.includes('http') || video.includes('https')) {
                 var VID = video.split('youtu.be')[1].split(' ')[0].replace('/', '')
