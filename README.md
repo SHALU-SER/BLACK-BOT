@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/85664936?v=4"  width="500" height="500"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20220108-WA0143.jpg"  width="500" height="500"/>
   <p align="center">
-<a href="#"><img title="WhiteDevil" src="https://img.shields.io/badge/WhiteDevil-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BLACK-BOT" src="https://img.shields.io/badge/BLACK-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=31&width=30000&lines=Welcome+To+WhiteDevil+BOT+codded+by+Karthik_terror-boy..."
+            src="https://readme-typing-svg.herokuapp.com?size=31&width=30000&lines=Welcome+To+BLACK+BOT+codded+by+ABU_JASIL..."
             alt="Typing SVG"
         />
     </a>
@@ -21,11 +21,11 @@
 
 
   <p align="center">
-<a href="https://github.com/terror-boy"><img title="Author" src="https://img.shields.io/badge/Author-Karthik_terror-boy/WhiteDevil?color=white&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/terror-boy"><img title="Author" src="https://img.shields.io/badge/Author-Karthik_terror-boy/BLACK-BOT?color=white&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a> to make it public
+Project created by <a href="https://github.com/terror-boy">SHALU-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -35,13 +35,13 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
 ----
 
   <p align="center">
-  <a href="httsp://github.com/terror-boy/WhiteDevil">
+  <a href="httsp://github.com/SHALU-SER/BLACK-BOT">
     <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="httsp://github.com/SHALU-SER/BLACK-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
+<a href="httsp://github.com/SHALU-SER/BLACK-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
+<a href="httsp://github.com/SHALU-SER/BLACK-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-black.svg"</a>
 </p>
   
@@ -180,7 +180,7 @@ you can contact 👇🏻👇🏻
     
   [![Karthik_terror-boy](https://github.com/terror-boy.png?size=200)](https://github.com/terror-boy) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=200)](https://github.com/farhan-dqz) |  [![saidali](https://github.com/saidalisaid2.png?size=200)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=200)](https://github.com/afnanplk) 
 ----|----|----|----
-[Karthik_terror-boy](https://github.com/terror-boy)  | [farhan-dqz](https://github.com/farhan-dqz)  | [saidali](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[ABUSER](https://github.com/SHALU-SER)  | [farhan-dqz](https://github.com/farhan-dqz)  | [saidali](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Base, Bug Fixes, Modules 
   </div>
     
